@@ -3,7 +3,7 @@ body {
     height: 100%;
 }
 .menu-principal {
-    width: 100%;
+    width: 80%;
     background-color: #801414;
     height: 60px;
 }
@@ -18,15 +18,14 @@ main {
     padding: 16px;
     width: 20%;
 }
-
+.menu {
+    width: 80%;
+    float: left;
+}
 .menu ul li {
     display: inline-block;
     color: #8b8b8b;
 }
 .menu ul li a {
     color: #8b8b8b;
-}
-.menu {
-    width: 80%;
-    float: right;
 }
