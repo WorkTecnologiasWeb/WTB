@@ -13,7 +13,7 @@ main {
     position: relative;
 }
 .logo {
-    float: right;
+    float: left;
     padding: 16px;
     width: 5%;
 }
