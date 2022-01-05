@@ -19,7 +19,7 @@ main {
 }
 .menu {
     width: 95%;
-    float: left;
+    float: right;
 }
 .menu ul li {
     display: inline-block;
