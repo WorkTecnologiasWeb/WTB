@@ -4,6 +4,7 @@ body {
 }
 .menu-principal {
     background-color: #801414;
+    height: 100%;
 }
 main {
     width: 900px;
