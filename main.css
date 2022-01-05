@@ -3,6 +3,7 @@ body {
     height: 100%;
 }
 .menu-principal {
+    width: 100%;
     background-color: #801414;
     height: 60px;
 }
