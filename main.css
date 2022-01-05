@@ -13,13 +13,11 @@ main {
     position: relative;
 }
 .logo {
-    float: left;
     padding: 16px;
     width: 5%;
 }
 .menu {
     width: 95%;
-    float: right;
 }
 .menu ul li {
     display: inline-block;
