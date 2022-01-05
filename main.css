@@ -13,10 +13,20 @@ main {
     float: left;
     position: relative;
 }
+.logo {
+    float: left;
+    padding: 16px;
+    width: 20%;
+}
+
 .menu ul li {
     display: inline-block;
     color: #8b8b8b;
 }
 .menu ul li a {
     color: #8b8b8b;
+}
+.menu {
+    width: 80%;
+    float: right;
 }
