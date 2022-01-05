@@ -10,7 +10,6 @@ body {
 main {
     width: 100%;
     float: left;
-    position: relative;
 }
 .logo {
     padding: 16px;
