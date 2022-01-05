@@ -1,9 +1,12 @@
 body,html{
-    margin: 0;
-    padding: 0;
-    align-items: center;
-    background-color: #8B0000;
-}
+              margin: 0;
+              padding: 0;
+          }
+      header{
+          width: 100;
+          height: 70px;
+          background-color: #8B0000;
+      }
       nav {
           display: flex;
           align-items: center;
@@ -74,17 +77,6 @@ body,html{
               padding-top: 10px;
               text-align: center;             
       }
-    </style>
-        <header>      
-           <h1>Fire<span>Free</span></h1>
-            <nav>
-                <ul>
-                  <li><a href="file:///D:/m1%20tecnologias%20web.html">Inicio</a></li>  
-                  <li><a href="file:///D:/m1%20tecnologias%20web.causas.html">Causas</a></li>
-                  <li><a href="#">Mundo</a></li>
-                  <li><a href="#">Soluções</a></li>
-                </ul> 
-            </nav>
 .box{
     width: 568px;
     padding: 36px;
