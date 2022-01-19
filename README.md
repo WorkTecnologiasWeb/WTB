@@ -1,7 +1,6 @@
 # tcm21-tw-g6
 
-Link Github: https://github.com/WorkTecnologiasWeb/WTB_grupo6.git
-Link Netlify: https://twbgrupo6.netlify.app/index.html
+https://twbgrupo6.netlify.app/
 
 Trabalho do Grupo 06,composto pelos alunos Rúben Conceição(37444) e Vinícius Pereira(37968), 
 no âmbito da disciplina de Tecnologias Web - Universidade da Maia.
