@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN" "http://www.oasis-open.org/docbook/xml/4.1.2/docbookx.dtd">
+<article lang="">
+  <para>FireFree</para>
+  <orderedlist>
+    <listitem>
+      <para><olink targetdocent="index.html">Inicio</olink> </para>
+    </listitem>
+    <listitem>
+      <para><olink targetdocent="causas.html">Causas</olink> </para>
+    </listitem>
+    <listitem>
+      <para><olink targetdocent="mundo.html">Mundo</olink> </para>
+    </listitem>
+    <listitem>
+      <para><olink targetdocent="solucoes.html">Soluções</olink> </para>
+    </listitem>
+  </orderedlist>
+  <sect1 id="images">
+    <para><inlinegraphic fileref="#wildfire.jpg" width="0.7862inch" depth="0.3929inch"/> </para>
+  </sect1>
+  <sect1>
+    <title>Incêndios Florestais</title>
+    <para>O incêndio florestal é a propagação do fogo em áreas florestais podendo ser florestal ou de savana, normalmente ocorre com frequência e intensidade nos períodos de estiagem e está intrinsecamente relacionada com a redução da humidade ambiental,basicamente é um incêndio não planeado, indesejado e descontrolado numa área de vegetação inflamável.</para>
+    <para/>
+  </sect1>
+</article>
